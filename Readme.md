@@ -36,12 +36,13 @@ The test suite covers authentication, product listing and sorting, cart manageme
 ## 📁 Project Structure
 
 playwright-ecommerce/
-├── pages/                     # Page Object classes (LoginPage, ProductPage, etc.)
-├── tests/                     # Test cases for each module
-├── reporters/                 # Custom reporter script
-├── playwright.config.ts       # Global configuration
-├── package.json               # Dependencies and scripts
-└── README.md                  # Project documentation
+├── pages/               # Page Object classes (LoginPage, ProductPage, etc.)
+├── tests/               # Test cases for each module
+├── reporters/           # Custom reporter script
+├── playwright.config.ts # Global configuration
+├── package.json         # Dependencies and scripts
+└── README.md            # Project documentation
+
 
 ## 🚀 Getting Started
 
