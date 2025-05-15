@@ -121,10 +121,8 @@ Configured in `playwright.config.ts` using Playwright’s built-in `devices`.
 
 ---
 
-## 👨‍💻 Author
+## 🐞 Bugs or Issues Found
 
-**Your Name**
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
+- No major bugs observed during testing.
+- All product images and data matched as expected.
+- Cart persisted across navigation as intended.
