@@ -55,7 +55,7 @@ playwright-ecommerce
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/playwright-ecommerce.git
+git clone https://github.com/PrajjwalRathi/playwright-ecommerce.git
 cd playwright-ecommerce
 npm install
 ````
